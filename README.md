@@ -1,8 +1,8 @@
-# Web Dev Article
+# G3 Architect
 
 ## Overview
 
-**Web Dev Article** is a simple, responsive website designed for G3 Architects. The project showcases modern web development practices, utilizing HTML, CSS, and a responsive design approach to create an engaging user experience.
+**G3 Architect** is a simple, responsive website designed for G3 Architects. The project showcases modern web development practices, utilizing HTML, CSS, and a responsive design approach to create an engaging user experience.
 
 ## Features
 
@@ -18,29 +18,13 @@
 - CSS (with Flexbox and Grid)
 - Google Fonts
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/web-dev-article.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd web-dev-article
-   ```
-
-3. **Open the `index.html` file** in your browser.
-
 ## Live Link:
 https://ironbat106.github.io/g3-architect-responsive-website/
 
 ## Folder Structure
 
 ```
-web-dev-article/
+g3-architect-responsive-website/
 │
 ├── images/                # Contains images used in the project
 │   ├── banner.png
